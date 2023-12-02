@@ -2,13 +2,11 @@
 layout: default
 modal-id: 1
 date: 05-12-2021
-img: Variador.jpg
+img: cabin.png
 alt: image-alt
 project-date: Diciembre 2021
 client: Armeria Eskola
 category: Automatismos
-description: Aprendimos a parametrizar variadores, concretamente los Altisar. Tuvimos varios proyectos con el Altisar, entre uno de ellos fue hacer un ascensor,
-nuestro ascensor tenia 3 pulsadores, solo había una planta por lo cual el s1 era para subir a la planta el s2 para bajar y el s3 la seta de emergencia, el programa
-se programo en Logo de siemens, cuando el s1 se pulsaba no se podia pulsar el s2 y viceversa.
+description: escribiendo..
 
 ---
