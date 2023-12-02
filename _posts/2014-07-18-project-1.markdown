@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 05-12-2021
-img: Variador.jpg
+img: Variador1.jpg
 alt: image-alt
 project-date: Diciembre 2021
 client: Armeria Eskola
