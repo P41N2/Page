@@ -35,7 +35,7 @@ footer:
   copyright: Mohamed Ali B.
   location: Location
   social: REDES SOCIALES
-  credits: Futuro
+  credits: GMAIL
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -53,7 +53,7 @@ address:
   - line: 
 
 # Credits content
-credits: 'Trabajando en ello..'
+credits: 'muhammadalibinna@gmail.com'
 
 # Build settings
 markdown: kramdown
