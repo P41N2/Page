@@ -10,5 +10,6 @@ category: Automatismos
 description: Aprendimos a parametrizar variadores, concretamente los Altisar. Tuvimos varios proyectos con el Altisar, entre uno de ellos fue hacer un ascensor,
              nuestro ascensor tenia 3 pulsadores, solo había una planta por lo cual el s1 era para subir a la planta el s2 para bajar y el s3 la seta de emergencia, 
              el programa se programó en Logo de siemens, cuando el s1 se pulsaba no se podia pulsar el s2 y viceversa.
+             Más detalladamente aquí: https://drive.google.com/drive/folders/1w82fs9Vo---iSX6LbKwwvkj4TKCu-l8d?usp=sharing
 
 ---
