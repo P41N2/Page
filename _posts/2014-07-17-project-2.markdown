@@ -8,5 +8,5 @@ project-date: Diciembre 2021
 client: Armeria Eskola
 category: Automatismos
 description: escribiendo..
-ghjgh
+
 ---
