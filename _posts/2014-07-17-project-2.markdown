@@ -7,8 +7,8 @@ alt: image-alt
 project-date: Diciembre 2019
 client: Armeria Eskola
 category: Automatismos
-description: En este reto se simuló, que una empresa nos había encargado un proyecto y realizar a corde a unos esquemas que ellos mandaron, 
-             para realizar nosotros el automatismo.
+description: En este reto se simuló, el encargo de un proyecto de una empresa acorde a los esquemas facilitados por la misma para que nosotros realicemos el 
+             automatismo.
              Aqui todo detalle del proyecto y los esquemas;  https://drive.google.com/drive/folders/1cOYSqPtgnwqqw5uIRR5zYtv64PzilzBc?usp=sharing
 
 ---
