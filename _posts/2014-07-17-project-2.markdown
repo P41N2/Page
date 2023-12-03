@@ -1,12 +1,13 @@
 ---
 layout: default
 modal-id: 2
-date: 05-12-2020
+date: 12-12-2019
 img: AUTOMATISMO2.png
 alt: image-alt
-project-date: Diciembre 2021
+project-date: Diciembre 2019
 client: Armeria Eskola
 category: Automatismos
-description: escribiendo..
+description: En este reto se simuló, que una empresa nos había encargado un proyecto y realizar a corde a unos esquemas que ellos mandaron el automatismo.
+             Aqui todo detalle del proyecto y los esquemas;  https://drive.google.com/drive/folders/1cOYSqPtgnwqqw5uIRR5zYtv64PzilzBc?usp=sharing
 
 ---
