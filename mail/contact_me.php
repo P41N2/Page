@@ -17,6 +17,10 @@ if ($email_address === FALSE) {
     echo 'Invalid email';
     exit(1);
 }
+<form
+  action="https://formspree.io/f/xbjvvbaq"
+  method="POST"
+>
 $phone = $_POST['phone'];
 $message = $_POST['message'];
 
